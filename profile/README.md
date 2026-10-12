@@ -14,17 +14,25 @@
 
 ---
 
+<br>
+
 ## 👋 About
 
 This organization brings together every web project I build on my own: experiments, practice projects and real applications.
 
 > 📦 Each repository is a self-contained project with its own code and documentation.
 
+---
+
+<br>
+
 ## 🚀 Projects
 
 Browse the **Repositories** tab to see all the projects. 📌 Pinned repositories show the most relevant ones.
 
 ---
+
+<br>
 
 ## 🛠️ Tech Stack
 
@@ -39,14 +47,10 @@ Browse the **Repositories** tab to see all the projects. 📌 Pinned repositorie
 
 ---
 
+<br>
+
 ## 👤 Maintainer
 
 Maintained by [@adrianpmdev](https://github.com/adrianpmdev), Junior Full Stack Developer.
 
 ---
-
-<div align="center">
-
-✨ Built with passion, one project at a time ✨
-
-</div>
